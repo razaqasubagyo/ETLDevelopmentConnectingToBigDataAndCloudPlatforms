@@ -27,27 +27,27 @@ Talend Open Studio, ETL Development, Big Data Integration, Cloud Integration.
 <h2>Documentation:</h2>
 
 <p align="center">
-Apache Kafka - Job Designer Workflow <br/>
+1.1 Apache Kafka - Job Designer Workflow <br/>
 <img src="https://github.com/user-attachments/assets/960ff58e-fa7e-4701-a752-31e0d7a7ddf7" height="80%" width="80%" alt="Schema Handling"/>
 <br />
 <br />
-Apache Cassandra - Job Designer Workflow  <br/>
+1.2 Apache Cassandra - Job Designer Workflow  <br/>
 <img src="https://github.com/user-attachments/assets/998c17b3-3dc2-46d7-8dcc-a8a28d97b7ca" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-MongoDB - Job Designer Workflow <br/>
+1.3 MongoDB - Job Designer Workflow <br/>
 <img src="https://github.com/user-attachments/assets/105f1968-74ec-4ee8-bc9b-ca4a3e3afa26" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Amazon S3 - Job Designer Workflow  <br/>
+1.4 Amazon S3 - Job Designer Workflow  <br/>
 <img src="https://github.com/user-attachments/assets/93151ff9-2d41-4136-9f9b-48d4134ab897" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Google BigQuery - Job Designer Workflow  <br/>
+1.5 Google BigQuery - Job Designer Workflow  <br/>
 <img src="https://github.com/user-attachments/assets/33335f25-9533-49fc-bd65-8f0917539cf3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-FTP - Job Designer Workflow  <br/>
+1.6 FTP- Job Designer Workflow  <br/>
 <img src="https://github.com/user-attachments/assets/2ed7cb63-44ee-4536-8839-b194eaae56a9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
